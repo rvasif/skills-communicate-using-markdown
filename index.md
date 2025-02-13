@@ -7,11 +7,16 @@
 ##### This is an `<h5>` header
 
 ###### This is an `<h6>` header
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
+![Image of punktocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
-
-![Image of Yaktocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
-
-
+![Image](https://octodex.github.com/images/NUX_Octodex.gif)
 
 
 
