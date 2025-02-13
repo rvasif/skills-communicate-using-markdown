@@ -21,7 +21,10 @@ var myVar = "Hello, world!";
 ```
 ![Image of punktocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
-![Image](https://octodex.github.com/images/NUX_Octodex.gif)
+![Image text](https://octodex.github.com/images/NUX_Octodex.gif)
+
+![new Image](https://octodex.github.com/images/femalecodertocat.png)
+
 
 
 
