@@ -27,6 +27,12 @@ var myVar = "Hello, world!";
 
 ![new Image](https://octodex.github.com/images/octofez.png)
 
+![new Image](https://octodex.github.com/images/snowtocat_final.jpg)
+
+![new Image](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)
+
+
+
 
 
 
